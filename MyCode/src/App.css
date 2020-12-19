@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "IndieFlower-Regular";
+  src: url("./fonts/IndieFlower-Regular.ttf");
+}
+
+body {
+  font-family: "IndieFlower-Regular";
+  padding: 20px 60px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 0, 157);
+}
+
+*{
+  box-sizing: border-box;
+}
